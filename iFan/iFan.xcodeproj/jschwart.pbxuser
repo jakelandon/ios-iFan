@@ -1,0 +1,530 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* iFanAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 588}}";
+			sepNavSelRange = "{542, 0}";
+			sepNavVisRange = "{127, 630}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iFan */ = {
+		activeExec = 0;
+		executables = (
+			7D6C53050FC5C6F8000C3945 /* iFan */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* iFanViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {993, 588}}";
+			sepNavSelRange = "{794, 0}";
+			sepNavVisRange = "{134, 728}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* iFanViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 3542}}";
+			sepNavSelRange = "{6311, 0}";
+			sepNavVisRange = "{6097, 1000}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7D6C53050FC5C6F8000C3945 /* iFan */;
+		activeSDKPreference = iphonesimulator2.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iFan */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iFan */,
+		);
+		codeSenseManager = 7D6C53160FC5C705000C3945 /* Code sense */;
+		executables = (
+			7D6C53050FC5C6F8000C3945 /* iFan */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					815,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					443,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 264619768;
+			PBXWorkspaceStateSaveDate = 264619768;
+		};
+		perUserProjectItems = {
+			7D6C534B0FC5C88C000C3945 /* PBXTextBookmark */ = 7D6C534B0FC5C88C000C3945 /* PBXTextBookmark */;
+			7D6C534C0FC5C88C000C3945 /* PBXTextBookmark */ = 7D6C534C0FC5C88C000C3945 /* PBXTextBookmark */;
+			7D6C534D0FC5C88C000C3945 /* PBXBookmark */ = 7D6C534D0FC5C88C000C3945 /* PBXBookmark */;
+			7D6C53500FC5C88C000C3945 /* PlistBookmark */ = 7D6C53500FC5C88C000C3945 /* PlistBookmark */;
+			7D6C53510FC5C88C000C3945 /* PBXTextBookmark */ = 7D6C53510FC5C88C000C3945 /* PBXTextBookmark */;
+			7D6C53520FC5C88C000C3945 /* PBXTextBookmark */ = 7D6C53520FC5C88C000C3945 /* PBXTextBookmark */;
+			7D6C53530FC5C88C000C3945 /* PBXTextBookmark */ = 7D6C53530FC5C88C000C3945 /* PBXTextBookmark */;
+			7D6C53540FC5C88C000C3945 /* PBXBookmark */ = 7D6C53540FC5C88C000C3945 /* PBXBookmark */;
+			7D6C53550FC5C88C000C3945 /* PBXTextBookmark */ = 7D6C53550FC5C88C000C3945 /* PBXTextBookmark */;
+			7D6C53560FC5C88C000C3945 /* PBXTextBookmark */ = 7D6C53560FC5C88C000C3945 /* PBXTextBookmark */;
+			7D6C53570FC5C88C000C3945 /* PBXTextBookmark */ = 7D6C53570FC5C88C000C3945 /* PBXTextBookmark */;
+			7D6C536A0FC5C9C5000C3945 /* PBXTextBookmark */ = 7D6C536A0FC5C9C5000C3945 /* PBXTextBookmark */;
+			7D6C536B0FC5C9C5000C3945 /* PBXTextBookmark */ = 7D6C536B0FC5C9C5000C3945 /* PBXTextBookmark */;
+			7D6C53710FC5C9F1000C3945 /* PBXTextBookmark */ = 7D6C53710FC5C9F1000C3945 /* PBXTextBookmark */;
+			7D6C53720FC5C9F1000C3945 /* PBXTextBookmark */ = 7D6C53720FC5C9F1000C3945 /* PBXTextBookmark */;
+			7D6C53790FC5CAF1000C3945 /* PBXTextBookmark */ = 7D6C53790FC5CAF1000C3945 /* PBXTextBookmark */;
+			7D6C537A0FC5CAF1000C3945 /* PBXTextBookmark */ = 7D6C537A0FC5CAF1000C3945 /* PBXTextBookmark */;
+			7D6C537B0FC5CAF1000C3945 /* PBXTextBookmark */ = 7D6C537B0FC5CAF1000C3945 /* PBXTextBookmark */;
+			7D6C537C0FC5CAF1000C3945 /* PBXTextBookmark */ = 7D6C537C0FC5CAF1000C3945 /* PBXTextBookmark */;
+			7D6C53BC0FC5CDE2000C3945 /* PBXTextBookmark */ = 7D6C53BC0FC5CDE2000C3945 /* PBXTextBookmark */;
+			7D6C53BD0FC5CDE2000C3945 /* PBXTextBookmark */ = 7D6C53BD0FC5CDE2000C3945 /* PBXTextBookmark */;
+			7D6C53D50FC5D72F000C3945 /* PBXTextBookmark */ = 7D6C53D50FC5D72F000C3945 /* PBXTextBookmark */;
+			7D6C53D60FC5D72F000C3945 /* PBXTextBookmark */ = 7D6C53D60FC5D72F000C3945 /* PBXTextBookmark */;
+			7D6C53F60FC5DA41000C3945 /* PBXTextBookmark */ = 7D6C53F60FC5DA41000C3945 /* PBXTextBookmark */;
+			7D6C53F70FC5DA41000C3945 /* PBXTextBookmark */ = 7D6C53F70FC5DA41000C3945 /* PBXTextBookmark */;
+			7D6C53F80FC5DA41000C3945 /* PBXTextBookmark */ = 7D6C53F80FC5DA41000C3945 /* PBXTextBookmark */;
+			7D6C53F90FC5DA41000C3945 /* PBXTextBookmark */ = 7D6C53F90FC5DA41000C3945 /* PBXTextBookmark */;
+			7D6C54100FC5DBB5000C3945 /* PBXTextBookmark */ = 7D6C54100FC5DBB5000C3945 /* PBXTextBookmark */;
+			7D6C54140FC5DBDA000C3945 /* PBXTextBookmark */ = 7D6C54140FC5DBDA000C3945 /* PBXTextBookmark */;
+			7D6C54650FC5E584000C3945 /* PBXTextBookmark */ = 7D6C54650FC5E584000C3945 /* PBXTextBookmark */;
+			7D6C54670FC5E584000C3945 /* PBXTextBookmark */ = 7D6C54670FC5E584000C3945 /* PBXTextBookmark */;
+			7D6C54680FC5E584000C3945 /* PBXTextBookmark */ = 7D6C54680FC5E584000C3945 /* PBXTextBookmark */;
+			7D6C54700FC5E696000C3945 /* PBXTextBookmark */ = 7D6C54700FC5E696000C3945 /* PBXTextBookmark */;
+			7D6C54710FC5E696000C3945 /* PlistBookmark */ = 7D6C54710FC5E696000C3945 /* PlistBookmark */;
+			7D6C54720FC5E696000C3945 /* PBXTextBookmark */ = 7D6C54720FC5E696000C3945 /* PBXTextBookmark */;
+			7D6C54BC0FCC392F000C3945 /* PlistBookmark */ = 7D6C54BC0FCC392F000C3945 /* PlistBookmark */;
+		};
+		sourceControlManager = 7D6C53150FC5C705000C3945 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 388}}";
+			sepNavSelRange = "{320, 0}";
+			sepNavVisRange = "{0, 364}";
+		};
+	};
+	7D6C53050FC5C6F8000C3945 /* iFan */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iFan;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	7D6C53150FC5C705000C3945 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	7D6C53160FC5C705000C3945 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	7D6C534B0FC5C88C000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 14";
+		rLen = 0;
+		rLoc = 320;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 0;
+	};
+	7D6C534C0FC5C88C000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iFanAppDelegate.m */;
+		name = "iFanAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 542;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 127;
+	};
+	7D6C534D0FC5C88C000C3945 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 7D6C53460FC5C7CF000C3945 /* blade.png */;
+	};
+	7D6C53500FC5C88C000C3945 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iFan-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIStatusBarHidden,
+		);
+		name = "/Volumes/Users/jschwart/Documents/Projects/Jake/iPhone/iFan/iFan/iFan-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	7D6C53510FC5C88C000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 14";
+		rLen = 0;
+		rLoc = 320;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 0;
+	};
+	7D6C53520FC5C88C000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iFanAppDelegate.m */;
+		name = "iFanAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 542;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 127;
+	};
+	7D6C53530FC5C88C000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iFanViewController.m */;
+		name = "iFanViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 642;
+		vrLoc = 0;
+	};
+	7D6C53540FC5C88C000C3945 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 7D6C53460FC5C7CF000C3945 /* blade.png */;
+	};
+	7D6C53550FC5C88C000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iFanViewController.h */;
+		name = "iFanViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 220;
+		vrLoc = 0;
+	};
+	7D6C53560FC5C88C000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iFanViewController.m */;
+		name = "iFanViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 642;
+		vrLoc = 0;
+	};
+	7D6C53570FC5C88C000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iFanViewController.h */;
+		name = "iFanViewController.h: 14";
+		rLen = 0;
+		rLoc = 853;
+		rType = 0;
+		vrLen = 271;
+		vrLoc = 0;
+	};
+	7D6C536A0FC5C9C5000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iFanViewController.m */;
+		name = "iFanViewController.m: 21";
+		rLen = 0;
+		rLoc = 606;
+		rType = 0;
+		vrLen = 1042;
+		vrLoc = 37;
+	};
+	7D6C536B0FC5C9C5000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iFanViewController.h */;
+		name = "iFanViewController.h: 17";
+		rLen = 0;
+		rLoc = 853;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 0;
+	};
+	7D6C53710FC5C9F1000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iFanViewController.m */;
+		name = "iFanViewController.m: 23";
+		rLen = 0;
+		rLoc = 633;
+		rType = 0;
+		vrLen = 1498;
+		vrLoc = 201;
+	};
+	7D6C53720FC5C9F1000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iFanViewController.h */;
+		name = "iFanViewController.h: 15";
+		rLen = 0;
+		rLoc = 687;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 0;
+	};
+	7D6C53790FC5CAF1000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iFanViewController.m */;
+		name = "iFanViewController.m: 51";
+		rLen = 0;
+		rLoc = 3037;
+		rType = 0;
+		vrLen = 831;
+		vrLoc = 1386;
+	};
+	7D6C537A0FC5CAF1000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iFanViewController.h */;
+		name = "iFanViewController.h: 20";
+		rLen = 0;
+		rLoc = 853;
+		rType = 0;
+		vrLen = 376;
+		vrLoc = 0;
+	};
+	7D6C537B0FC5CAF1000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iFanViewController.m */;
+		name = "iFanViewController.m: 53";
+		rLen = 0;
+		rLoc = 3037;
+		rType = 0;
+		vrLen = 1040;
+		vrLoc = 0;
+	};
+	7D6C537C0FC5CAF1000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iFanViewController.h */;
+		name = "iFanViewController.h: 21";
+		rLen = 0;
+		rLoc = 836;
+		rType = 0;
+		vrLen = 396;
+		vrLoc = 0;
+	};
+	7D6C53BC0FC5CDE2000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iFanViewController.m */;
+		name = "iFanViewController.m: 54";
+		rLen = 0;
+		rLoc = 3037;
+		rType = 0;
+		vrLen = 1668;
+		vrLoc = 204;
+	};
+	7D6C53BD0FC5CDE2000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iFanViewController.h */;
+		name = "iFanViewController.h: 15";
+		rLen = 0;
+		rLoc = 667;
+		rType = 0;
+		vrLen = 411;
+		vrLoc = 0;
+	};
+	7D6C53D50FC5D72F000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iFanViewController.m */;
+		name = "iFanViewController.m: 54";
+		rLen = 0;
+		rLoc = 3037;
+		rType = 0;
+		vrLen = 1305;
+		vrLoc = 787;
+	};
+	7D6C53D60FC5D72F000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iFanViewController.h */;
+		name = "iFanViewController.h: 17";
+		rLen = 0;
+		rLoc = 712;
+		rType = 0;
+		vrLen = 430;
+		vrLoc = 0;
+	};
+	7D6C53F60FC5DA41000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iFanViewController.m */;
+		name = "iFanViewController.m: 60";
+		rLen = 0;
+		rLoc = 3037;
+		rType = 0;
+		vrLen = 1146;
+		vrLoc = 1586;
+	};
+	7D6C53F70FC5DA41000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iFanViewController.h */;
+		name = "iFanViewController.h: 22";
+		rLen = 0;
+		rLoc = 816;
+		rType = 0;
+		vrLen = 446;
+		vrLoc = 0;
+	};
+	7D6C53F80FC5DA41000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iFanViewController.m */;
+		name = "iFanViewController.m: 63";
+		rLen = 0;
+		rLoc = 3037;
+		rType = 0;
+		vrLen = 953;
+		vrLoc = 1865;
+	};
+	7D6C53F90FC5DA41000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iFanViewController.h */;
+		name = "iFanViewController.h: 23";
+		rLen = 0;
+		rLoc = 823;
+		rType = 0;
+		vrLen = 452;
+		vrLoc = 0;
+	};
+	7D6C54100FC5DBB5000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iFanViewController.m */;
+		name = "iFanViewController.m: 130";
+		rLen = 0;
+		rLoc = 4311;
+		rType = 0;
+		vrLen = 1191;
+		vrLoc = 3324;
+	};
+	7D6C54140FC5DBDA000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iFanViewController.h */;
+		name = "iFanViewController.h: 21";
+		rLen = 0;
+		rLoc = 582;
+		rType = 0;
+		vrLen = 817;
+		vrLoc = 0;
+	};
+	7D6C54650FC5E584000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iFanViewController.h */;
+		name = "iFanViewController.h: 33";
+		rLen = 0;
+		rLoc = 794;
+		rType = 0;
+		vrLen = 728;
+		vrLoc = 134;
+	};
+	7D6C54670FC5E584000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iFanViewController.m */;
+		name = "iFanViewController.m: 200";
+		rLen = 0;
+		rLoc = 6303;
+		rType = 0;
+		vrLen = 967;
+		vrLoc = 5213;
+	};
+	7D6C54680FC5E584000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iFanViewController.h */;
+		name = "iFanViewController.h: 33";
+		rLen = 0;
+		rLoc = 794;
+		rType = 0;
+		vrLen = 728;
+		vrLoc = 134;
+	};
+	7D6C54700FC5E696000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iFanViewController.m */;
+		name = "iFanViewController.m: 206";
+		rLen = 0;
+		rLoc = 6311;
+		rType = 0;
+		vrLen = 1000;
+		vrLoc = 6097;
+	};
+	7D6C54710FC5E696000C3945 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iFan-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIStatusBarHidden,
+		);
+		name = "/Volumes/Users/jschwart/Documents/Projects/Jake/iPhone/iFan/iFan/iFan-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	7D6C54720FC5E696000C3945 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iFanViewController.m */;
+		name = "iFanViewController.m: 206";
+		rLen = 0;
+		rLoc = 6311;
+		rType = 0;
+		vrLen = 1000;
+		vrLoc = 6097;
+	};
+	7D6C54BC0FCC392F000C3945 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iFan-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIPrerenderedIcon,
+		);
+		name = "/Volumes/Users/jschwart/Documents/Projects/Jake/iPhone/iFan/iFan/iFan-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+}
